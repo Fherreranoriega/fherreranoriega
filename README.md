@@ -1,16 +1,28 @@
-## Hi there 👋
+# Facundo Herrera Noriega
 
-<!--
-**Fherreranoriega/fherreranoriega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Automation & AI Systems Builder
 
-Here are some ideas to get you started:
+Construyo soluciones SaaS combinando automatización, inteligencia artificial y backend liviano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologías
+
+- n8n · Make
+- Python · JavaScript
+- Supabase · PostgreSQL
+- APIs REST · Webhooks
+- OpenAI · Claude
+
+## Proyectos destacados
+
+- 🤖 AI Sales Assistant
+- 📅 AI Appointment System
+- 🧠 Multimodal AI Agent
+
+## Enfoque
+
+Desarrollo sistemas orientados a negocio, integrando IA y automatización para resolver problemas reales.
+
+## Contacto
+f.herreranoriega@gmail.com
++54 9 383 4642998
